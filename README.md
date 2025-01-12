@@ -10,6 +10,7 @@
 </div>
 
 ---
+### 🤵🏽Overview
 
 I'm a passionate developer and recent software development graduate with knowledge in C#, specializing in WPF and WinForms frameworks. I also have significant experience with Kotlin, working with Views and Jetpack Compose. Currently, I'm expanding my skill set by learning JavaScript and HTML/CSS. 
 
