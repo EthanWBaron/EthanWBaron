@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ethan Baron
+# 🦔 Ethan Baron 🦔
 
 ` Software Developer `
 
@@ -27,9 +27,23 @@ I'm a passionate developer and recent software development graduate with knowled
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  />
 <br />
 
+---
+### 👨🏽‍💻 Projects
+
+#### 🔥**OVCite**  
+   A comprehensive Kotlin application developed for the Father's Heart NPO. It allows volunteers to sign up, and users to explore events, job postings, videos, and educational resources. Beneficiaries have additional access to a loyalty-based currency program, earning points by attending courses to purchase items.  
+   
+   Additionally, an **admin application** built with C# WPF enables administrators to manage events, jobs, educational resources, and the loyalty program with ease.
+
+#### 🙃**KulisananiRegister**  
+   A Kotlin-based Android application utilizing Google ML Kit for facial recognition. Designed for Kulisanani company, it serves as an employee register, storing facial data securely in Firebase and logging attendance records in Firestore.
+
+#### 🏃🏽‍♀️‍➡️**PowerPath**  
+   A fitness application built with Kotlin and Jetpack Compose, focusing on user progress tracking. It allows users to monitor their lifting progress, view progress pictures, and visually track improvements over time. The app integrates Firebase for seamless data management and provides an engaging user experience.
 
 <!--
 **EthanWBaron/EthanWBaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
