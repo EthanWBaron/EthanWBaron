@@ -43,8 +43,6 @@ I'm a passionate developer and recent software development graduate with knowled
 🙃**KulisananiRegister**  
    - A Kotlin-based Android application utilizing Google ML Kit for facial recognition. Designed for Kulisanani company, it serves as an employee register, storing facial data securely in Firebase and logging attendance records in Firestore.
 
-🏃🏽‍♀️‍➡️**PowerPath**  
-   - A fitness application built with Kotlin and Jetpack Compose, focusing on user progress tracking. It allows users to monitor their lifting progress, view progress pictures, and visually track improvements over time. The app integrates Firebase for seamless data management and provides an engaging user experience.
 
 <!--
 **EthanWBaron/EthanWBaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
