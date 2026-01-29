@@ -35,7 +35,7 @@ I'm a passionate developer and recent software development graduate with knowled
 ---
 ### 👨🏽‍💻 Projects
 🔥**Portfolio**
-- Work-inprogress: https://ethanbaron.vercel.app/
+- Work-inprogress: https://ethanwbaron.vercel.app/
 
 🔥**OVCite**  
    - A comprehensive Kotlin application developed for the Father's Heart NPO. It allows volunteers to sign up, and users to explore events, job postings, videos, and educational resources. Beneficiaries have additional access to a loyalty-based currency program, earning points by attending courses to purchase items.  
